@@ -10,14 +10,14 @@ public class Velha {
 	static Scanner sc = new Scanner(System.in);
 	
 	public static void main(String[]args) {
-		
+	
+		do {if(para!=9) {para=9;}
 		
 		System.out.println("Nome Player 1?");
 		pla1 = sc.next();
 		System.out.println("Nome Player 2?");
 		pla2 = sc.next();
 		
-		do {if(para!=9) {para=9;}
 		for (rep=0;rep<10;rep++) {
 			System.out.println("   A"+"   B"+"   C");	
 			System.out.println("1 _"+a0+"_|_"+a1+"_|_"+a2+"_");
