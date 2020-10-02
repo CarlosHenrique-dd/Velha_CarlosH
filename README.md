@@ -1,6 +1,6 @@
 # Velha_CarlosH
 
-Trabalho_Velha_CarlosH - e um jogo da velha executado apartir do console.
+Trabalho_Velha_CarlosH - e um jogo da velha executado a partir do console.
 
 algoritmos - Vitoria X = apos ser executado vai mostrar as jogadas que levaram a vitoria do X.
 
